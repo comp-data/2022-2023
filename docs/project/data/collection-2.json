@@ -1,0 +1,182 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://dl.ficlit.unibo.it/iiif/19428-19425/collection",
+  "type": "Collection",
+  "label": { "none": [ "Fondo Giuseppe Raimondi" ] },
+  "items": [
+    {
+      "id": "https://dl.ficlit.unibo.it/iiif/2/19428/manifest",
+      "type": "Manifest",
+      "label": {"none": [ "Raimondi, Giuseppe. Quaderno manoscritto, \"Caserma Scalo : 1930-1968\"" ] },
+      "items": [
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/19428/canvas/p1",
+          "type": "Canvas",
+          "label": { "none": [ "r" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/19428/canvas/p2",
+          "type": "Canvas",
+          "label": { "none": [ "v" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/19428/canvas/p3",
+          "type": "Canvas",
+          "label": { "none": [ "c1r" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/19428/canvas/p4",
+          "type": "Canvas",
+          "label": { "none": [ "c1v" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/19428/canvas/p5",
+          "type": "Canvas",
+          "label": { "none": [ "c2r" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/19428/canvas/p6",
+          "type": "Canvas",
+          "label": { "none": [ "c2v" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/19428/canvas/p7",
+          "type": "Canvas",
+          "label": { "none": [ "c3r" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/19428/canvas/p8",
+          "type": "Canvas",
+          "label": { "none": [ "c3v" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/19428/canvas/p9",
+          "type": "Canvas",
+          "label": { "none": [ "c4r" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/19428/canvas/p10",
+          "type": "Canvas",
+          "label": { "none": [ "c4v" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/19428/canvas/p11",
+          "type": "Canvas",
+          "label": { "none": [ "c5r" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/19428/canvas/p12",
+          "type": "Canvas",
+          "label": { "none": [ "c5v" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/19428/canvas/p13",
+          "type": "Canvas",
+          "label": { "none": [ "r" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/19428/canvas/p14",
+          "type": "Canvas",
+          "label": { "none": [ "v" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/19428/canvas/p15",
+          "type": "Canvas",
+          "label": { "none": [ "colori" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/19428/canvas/p16",
+          "type": "Canvas",
+          "label": { "none": [ "scala" ] }
+        }
+      ]
+    },
+    {
+      "id": "https://dl.ficlit.unibo.it/iiif/2/19425/manifest",
+      "type": "Manifest",
+      "label": {"none": [ "Raimondi, Giuseppe. Quaderno manoscritto, \"La vecchia centrale termica. Aprile 965\"" ] },
+      "items": [
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/19425/canvas/p1",
+          "type": "Canvas",
+          "label": { "none": [ "r" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/19425/canvas/p2",
+          "type": "Canvas",
+          "label": { "none": [ "v" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/19425/canvas/p3",
+          "type": "Canvas",
+          "label": { "none": [ "c1r" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/19425/canvas/p4",
+          "type": "Canvas",
+          "label": { "none": [ "c1v" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/19425/canvas/p5",
+          "type": "Canvas",
+          "label": { "none": [ "c2r" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/19425/canvas/p6",
+          "type": "Canvas",
+          "label": { "none": [ "c2v" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/19425/canvas/p7",
+          "type": "Canvas",
+          "label": { "none": [ "c3r" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/19425/canvas/p8",
+          "type": "Canvas",
+          "label": { "none": [ "c3v" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/19425/canvas/p9",
+          "type": "Canvas",
+          "label": { "none": [ "c4r" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/19425/canvas/p10",
+          "type": "Canvas",
+          "label": { "none": [ "c4v" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/19425/canvas/p11",
+          "type": "Canvas",
+          "label": { "none": [ "c5r" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/19425/canvas/p12",
+          "type": "Canvas",
+          "label": { "none": [ "c5v" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/19425/canvas/p13",
+          "type": "Canvas",
+          "label": { "none": [ "r" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/19425/canvas/p14",
+          "type": "Canvas",
+          "label": { "none": [ "v" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/19425/canvas/p15",
+          "type": "Canvas",
+          "label": { "none": [ "colori" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/19425/canvas/p16",
+          "type": "Canvas",
+          "label": { "none": [ "scala" ] }
+        }
+      ]
+    }
+  ]
+}

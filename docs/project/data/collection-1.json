@@ -1,0 +1,1210 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://dl.ficlit.unibo.it/iiif/28429/collection",
+  "type": "Collection",
+  "label": { "none": [ "Works of Dante Alighieri" ] },
+  "items": [
+    {
+      "id": "https://dl.ficlit.unibo.it/iiif/2/28429/manifest",
+      "type": "Manifest",
+      "label": {"none": [ "Il Canzoniere" ] },
+      "items": [
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p1",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0001_piatto anteriore.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p2",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0002_contropiatto anteriore.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p3",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0003_foglio di guardia.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p4",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0004_foglio di guardia.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p5",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0005_foglio di guardia.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p6",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0006_foglio di guardia.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p7",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0007_p.[III].jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p8",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0008_p.[IV].jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p9",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0009_p.[V].jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p10",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0010_p.[VI].jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p11",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0011_p.VII.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p12",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0012_p.VIII.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p13",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0013_p.IX.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p14",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0014_p.X.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p15",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0015_p.XI.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p16",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0016_p.XII.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p17",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0017_p.XIII.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p18",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0018_p.XIV.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p19",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0019_p.XV.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p20",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0020_p.XVI.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p21",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0021_p.XVII.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p22",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0022_p.XVIII.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p23",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0023_p.XIX.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p24",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0024_p.XX.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p25",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0025_p.XXI.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p26",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0026_p.XXII.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p27",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0027_p.XXIII.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p28",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0028_p.XXIV.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p29",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0029_p.XXV.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p30",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0030_p.XXVI.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p31",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0031_p.XXVII.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p32",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0032_p.XXVIII.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p33",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0033_p.XXIX.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p34",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0034_p.XXX.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p35",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0035_np.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p36",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0036_np.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p37",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0037_tavola recto.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p38",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0038_tavola verso.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p39",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0039_p.XXXI.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p40",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0040_p.XXXII.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p41",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0041_p.XXXIII.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p42",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0042_p.XXXIV.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p43",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0043_p.XXXV.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p44",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0044_p.XXXVI.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p45",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0045_p.XXXVII.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p46",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0046_p.XXXVIII.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p47",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0047_p.XXXIX.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p48",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0048_p.XL.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p49",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0049_p.XLI.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p50",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0050_p.[XLII].jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p51",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0051_np.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p52",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0052_np.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p53",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0053_tavola recto.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p54",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0054_tavola verso.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p55",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0055_p.1.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p56",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0056_p.2.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p57",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0057_p.3.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p58",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0058_p.4.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p59",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0059_p.5.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p60",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0060_p.6.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p61",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0061_p.7.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p62",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0062_p.8.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p63",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0063_p.9.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p64",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0064_p.10.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p65",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0065_np.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p66",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0066_np.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p67",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0067_tavola recto.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p68",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0068_tavola verso.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p69",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0069_p.11.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p70",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0070_p.12.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p71",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0071_p.13.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p72",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0072_p.14.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p73",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0073_p.15.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p74",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0074_p.16.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p75",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0075_p.17.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p76",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0076_p.18.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p77",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0077_p.19.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p78",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0078_p.20.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p79",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0079_p.21.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p80",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0080_p.22.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p81",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0081_np.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p82",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0082_np.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p83",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0083_tavola recto.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p84",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0084_tavola verso.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p85",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0085_p.23.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p86",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0086_p.24.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p87",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0087_p.25.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p88",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0088_p.26.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p89",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0089_p.27.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p90",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0090_p.28.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p91",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0091_p.29.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p92",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0092_p.30.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p93",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0093_p.31.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p94",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0094_p.32.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p95",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0095_p.33.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p96",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0096_p.34.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p97",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0097_p.35.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p98",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0098_p.36.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p99",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0099_p.37.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p100",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0100_p.38.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p101",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0101_p.39.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p102",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0102_p.40.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p103",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0103_p.41.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p104",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0104_p.42.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p105",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0105_p.43.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p106",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0106_p.44.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p107",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0107_np.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p108",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0108_np.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p109",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0109_tavola recto.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p110",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0110_tavola verso.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p111",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0111_p.45.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p112",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0112_p.46.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p113",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0113_p.47.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p114",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0114_p.48.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p115",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0115_np.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p116",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0116_tavola recto.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p117",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0117_tavola recto.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p118",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0118_np.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p119",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0119_np.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p120",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0120_tavola verso.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p121",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0121_p.49.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p122",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0122_p.50.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p123",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0123_p.51.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p124",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0124_p.52.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p125",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0125_p.53.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p126",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0126_p.54.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p127",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0127_p.55.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p128",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0128_p.56.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p129",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0129_np.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p130",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0130_np.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p131",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0131_tavola recto.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p132",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0132_tavola verso.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p133",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0133_p.57.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p134",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0134_p.58.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p135",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0135_p.59.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p136",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0136_p.60.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p137",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0137_p.61.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p138",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0138_p.62.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p139",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0139_p.63.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p140",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0140_p.64.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p141",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0141_p.65.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p142",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0142_p.66.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p143",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0143_p.67.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p144",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0144_p.68.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p145",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0145_np.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p146",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0146_np.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p147",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0147_tavola recto.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p148",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0148_tavola verso.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p149",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0149_p.69.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p150",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0150_p.70.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p151",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0151_p.71.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p152",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0152_p.72.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p153",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0153_p.73.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p154",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0154_p.74.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p155",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0155_p.75.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p156",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0156_p.76.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p157",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0157_np.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p158",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0158_np.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p159",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0159_tavola recto.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p160",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0160_tavola verso.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p161",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0161_p.77.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p162",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0162_p.78.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p163",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0163_p.79.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p164",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0164_p.80.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p165",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0165_p.81.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p166",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0166_p.82.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p167",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0167_np.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p168",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0168_np.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p169",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0169_tavola recto.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p170",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0170_tavola verso.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p171",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0171_p.83.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p172",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0172_p.84.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p173",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0173_p.85.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p174",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0174_p.86.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p175",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0175_p.87.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p176",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0176_p.88.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p177",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0177_p.89.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p178",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0178_p.90.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p179",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0179_p.91.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p180",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0180_p.92.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p181",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0181_p.93.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p182",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0182_p.94.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p183",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0183_p.95.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p184",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0184_p.96.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p185",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0185_p.97.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p186",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0186_p.98.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p187",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0187_np.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p188",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0188_np.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p189",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0189_tavola recto.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p190",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0190_tavola verso.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p191",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0191_p.99.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p192",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0192_p.100.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p193",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0193_p.101.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p194",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0194_p.102.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p195",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0195_p.103.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p196",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0196_p.104.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p197",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0197_p.105.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p198",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0198_p.106.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p199",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0199_p.107.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p200",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0200_p.108.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p201",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0201_p.109.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p202",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0202_p.110.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p203",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0203_p.111.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p204",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0204_p.112.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p205",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0205_p.113.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p206",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0206_p.114.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p207",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0207_np.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p208",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0208_np.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p209",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0209_tavola recto.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p210",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0210_tavola verso.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p211",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0211_p.115.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p212",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0212_p.116.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p213",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0213_p.117.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p214",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0214_p.118.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p215",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0215_p.119.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p216",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0216_p.120.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p217",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0217_p.[121].jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p218",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0218_p.[122].jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p219",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0219_p.123.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p220",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0220_p.124.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p221",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0221_p.125.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p222",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0222_p.126.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p223",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0223_p.127.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p224",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0224_p.128.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p225",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0225_p.[129].jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p226",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0226_p.[130].jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p227",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0227_foglio di guardia.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p228",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0228_foglio di guardia.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p229",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0229_foglio di guardia.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p230",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0230_foglio di guardia.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p231",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0231_foglio di guardia.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p232",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0232_foglio di guardia.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p233",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0233_contropiatto posteriore.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p234",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0234_piatto posteriore.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p235",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0235_dorso.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p236",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0236_taglio inferiore.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p237",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0237_taglio concavo.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p238",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0238_taglio superiore.jpg" ] }
+        },
+        {
+          "id": "https://dl.ficlit.unibo.it/iiif/2/28429/canvas/p239",
+          "type": "Canvas",
+          "label": { "none": [ "BO0451_CAM6537_0239_metro e colore.jpg" ] }
+        }
+      ]
+    }
+  ]
+}
