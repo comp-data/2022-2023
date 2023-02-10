@@ -207,4 +207,4 @@ result_q3 = generic.getAnnotationsToCanvas("https://dl.ficlit.unibo.it/iiif/2/28
 
 ## Submission of the project
 
-You have to provide all Python files implementing your project, by sharing them in some way (e.g. via OneDrive). You have to send all the files **two days before** the exam session you want to take. Before submitting the project, you must be sure that your code passes a particular basic test (that will be provided soon) which aims at checking if the code is runnable and compliant with the specification of the UML.
+    You have to provide all Python files implementing your project, by sharing them in some way (e.g. via OneDrive). You have to send all the files **two days before** the exam session you want to take. Before submitting the project, you must be sure that your code passes a particular basic test (that will be provided soon) which aims at checking if the code is runnable and compliant with the specification of the UML.
