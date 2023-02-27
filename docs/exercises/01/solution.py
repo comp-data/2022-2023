@@ -111,7 +111,7 @@ class Library():
         if source:
             reader = Reader()
             data = reader.load(source)
-        for _, row in data.iterrows():
+        for idx, row in data.iterrows():
             br = BibliographicResource()
             venue = BibliographicResource()
             identifiers = row['id'].split()
