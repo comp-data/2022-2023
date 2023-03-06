@@ -7,7 +7,8 @@ biblio_res = read_csv("docs/exercises/02/data.csv",
                   dtype={
                       "id": "string",
                       "title": "string",
-                      "type": "string"
+                      "type": "string",
+                      "publisher": "string"
                   })
 biblio_res_internal_ids = []
 for idx, row in biblio_res.iterrows():
@@ -28,3 +29,27 @@ publications.insert(0, "internalId", Series(publication_internal_id, dtype="stri
 with connect("docs/exercises/02/database.db") as con:
     biblio_res.to_sql("BibliographicResource", con, if_exists="replace", index=False)
     publications.to_sql("Publisher", con, if_exists="replace", index=False)
+
+query_1 = '''
+SELECT title, type, publisher
+FROM BibliographicResource
+WHERE id='doi:10.5244/c.14.27'
+'''
+query_2 = '''
+SELECT id, title, publisher
+FROM BibliographicResource
+WHERE type='book chapter'
+'''
+query_3 = '''
+SELECT title, type, publisher, name
+FROM BibliographicResource 
+LEFT JOIN Publisher 
+ON BibliographicResource.publisher == Publisher.id
+WHERE BibliographicResource.id='doi:10.5005/jp/books/11313_5'
+'''
+
+with connect("docs/exercises/02/database.db") as con:
+    cur = con.cursor()
+    result_1 = cur.execute(query_1).fetchall()
+    result_2 = cur.execute(query_2).fetchall()
+    result_3 = cur.execute(query_3).fetchall()

@@ -30,7 +30,7 @@ biblio_res = read_csv("docs/exercises/03/data.csv",
                   dtype={
                       "id": "string",
                       "title": "string",
-                      "type": "string"
+                      "publisher": "string"
                   })
 for idx, row in biblio_res.iterrows():
     local_id = "br-" + str(idx)
@@ -46,3 +46,26 @@ store.open((endpoint, endpoint))
 for triple in my_graph.triples((None, None, None)):
    store.add(triple)
 store.close()
+
+query_1 = '''
+SELECT ?res ?title ?publisher_id
+WHERE {
+    ?res <https://schema.org/Identifier> "doi:10.1037/e463622004-001";
+        <https://schema.org/name> ?title.
+}
+'''
+query_2 = '''
+SELECT ?res ?title ?publisher_id ?publisher_name
+WHERE {
+    ?res <https://schema.org/Identifier> "doi:10.1109/cyberneticscom.2012.6381631";
+        <https://schema.org/name> ?title;
+        <https://schema.org/hasPublisher> ?pub_res.
+    ?pub_res <https://schema.org/Identifier> ?publisher_id;
+            <https://schema.org/name> ?publisher_name.
+}
+'''
+store.open((endpoint, endpoint))
+result_1 = store.query(query=query_1)
+result_2 = store.query(query=query_2)
+store.close()
+print(result_1.serialize().decode('utf8'), '\n', result_2.serialize().decode('utf8'))
