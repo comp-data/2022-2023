@@ -207,4 +207,23 @@ result_q3 = generic.getAnnotationsToCanvas("https://dl.ficlit.unibo.it/iiif/2/28
 
 ## Submission of the project
 
-    You have to provide all Python files implementing your project, by sharing them in some way (e.g. via OneDrive). You have to send all the files **two days before** the exam session you want to take. Before submitting the project, you must be sure that your code passes a particular basic test (that will be provided soon) which aims at checking if the code is runnable and compliant with the specification of the UML.
+You have to provide all Python files implementing your project, by sharing them in some way (e.g. via OneDrive). You have to send all the files **two days before** the exam session you want to take. Before submitting the project, you must be sure that your code passes a [the basic test](test.py) which aims at checking if the code is runnable and compliant with the specification of the UML. The test has been developed using [`unittest`](https://docs.python.org/3/library/unittest.html), which is one of Python libraries dedicated to tests. 
+
+To run the test, you should:
+
+1. put the file `test.py` in the folder containing the other files with the code you wrote;
+2. modify the lines 15-21 in `test.py` if needed, i.e. to import correctly your classes from the files you have created;
+3. modify the lines 32-36 in `test.py` if needed, i.e. the paths pointing to the exemplar data used in the test (`annotations.csv`, `collection-1.json`, `metadata.csv`), the path of your relational database file and the URL of the SPARQL endpoint of your Blazegraph instance;
+4. run your Blazegraph instance as explained in the related hands-on lecture (`java -server -Xmx1g -jar blazegraph.jar`).
+
+Once everything above is set, open the terminal, go to the directory containing the file `test.py`, and run the following command:
+
+```
+python -m unittest test
+```
+
+It will print on screen status of the execution, reporting on possible errors and mistakes, to allow you to correct them in advance, before the submission. Be aware that this test checks only the compliancy of the methods and the object returned by them, but does not check for additional stuff. You are free, of course, to extend it as you prefer. However, it is **mandatory** that your code passes the test provided without any additional modification (besides the imports mentioned in point (2) and the paths mentioned in point (3)) **before** submitting it.
+
+The same test will be run on all the project provided after their submission. If the project will not pass this basic test, no project evaluation will be performed.
+
+If you notice some mistakes in the test file, please do not hesitate to highlight it.
