@@ -168,7 +168,8 @@ class TestProjectBasic(unittest.TestCase):
         for a in can_2:
             self.assertIsInstance(a, Canvas)
 
-        self.assertIsInstance(generic.getEntityById("just_a_test"), IdentifiableEntity)
+        # It must return None in case the entity does not exist
+        self.assertEqual(generic.getEntityById("just_a_test"), None)
         
         self.assertIsInstance(generic.getEntitiesWithCreator("just_a_test"), list)
         ent_1 = generic.getEntitiesWithCreator("Alighieri, Dante")

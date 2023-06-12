@@ -138,7 +138,7 @@ All the attributes methods of each class are defined as follows. All the constru
 
 `getCanvasesInManifest`: it returns a list of objects having class `Canvas`, included in the databases accessible via the query processors, that are contained in the manifest identified by the input identifier.
 
-`getEntityById`: it returns a object having class `IdentifiableEntity` identify the entity available in the databases accessible via the query processors matching the input identifier (i.e. maximum one entity).
+`getEntityById`: it returns a object having class `IdentifiableEntity` identify the entity available in the databases accessible via the query processors matching the input identifier (i.e. maximum one entity). In case there is no entity identified by the input identifier, `None` must be returned.
 
 `getEntitiesWithCreator`: it returns a list of objects having class `EntityWithMetadata`, included in the databases accessible via the query processors, related to the entities having the input creator as one of their creators.
 
